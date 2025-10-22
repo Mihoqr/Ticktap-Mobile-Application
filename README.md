@@ -102,3 +102,7 @@ git clone https://https://github.com/Mihoqr/Ticktap-Mobile-Application.git
 2. Open the project in **Android Studio**.
 3. Wait for **Gradle Sync** to complete.
 4. Run the app on your emulator or a physical device. 🚀
+
+---
+
+Project Reference Sheet: Google Sheets – TickTap Data Documentation(https://docs.google.com/spreadsheets/d/1N_l-pUvkJ4kBiwTbhNJO7_ox7TGHtby7N59LhcR0hss/edit?usp=sharing)
