@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tvAddTask"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/add_task"
+        android:padding="16dp"
+        android:gravity="center"
+        android:background="?attr/selectableItemBackground"/>
+
+    <TextView
+        android:id="@+id/tvAddNote"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/add_note"
+        android:padding="16dp"
+        android:gravity="center"
+        android:background="?attr/selectableItemBackground"/>
+
+    <TextView
+        android:id="@+id/tvAddDeadline"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/add_deadline"
+        android:padding="16dp"
+        android:gravity="center"
+        android:background="?attr/selectableItemBackground"/>
+
+</LinearLayout>
