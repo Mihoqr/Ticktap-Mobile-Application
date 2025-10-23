@@ -105,4 +105,4 @@ git clone https://https://github.com/Mihoqr/Ticktap-Mobile-Application.git
 
 ---
 
-Project Reference Sheet: Google Sheets – TickTap Data Documentation(https://docs.google.com/spreadsheets/d/1N_l-pUvkJ4kBiwTbhNJO7_ox7TGHtby7N59LhcR0hss/edit?usp=sharing)
+Project Reference Sheet: Google Sheets – TickTap Data Documentation Resources (https://docs.google.com/spreadsheets/d/1N_l-pUvkJ4kBiwTbhNJO7_ox7TGHtby7N59LhcR0hss/edit?usp=sharing)
